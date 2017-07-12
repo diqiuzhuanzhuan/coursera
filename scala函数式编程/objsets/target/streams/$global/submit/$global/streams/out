@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mAttempting to submit "objsets" assignment in "progfun1" course[0m
+[0m[[0minfo[0m] [0mUsing:[0m
+[0m[[0minfo[0m] [0m- email: diqiuzhuanzhuan@gmail.com[0m
+[0m[[0minfo[0m] [0m- submit token: PwBqhUDgVpbAETF5[0m
+[0m[[0minfo[0m] [0mConnecting to Coursera...[0m
+[0m[[31merror[0m] [0mConnection to Coursera failed.[0m
+[0m[[31merror[0m] [0mThere was something wrong while attempting to connect to Coursera.[0m
+[0m[[31merror[0m] [0mCheck your internet connection.[0m
+[0m[[31merror[0m] [0mjava.net.UnknownHostException: www.coursera.org[0m
